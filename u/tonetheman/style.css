@@ -1,0 +1,13 @@
+ul {
+	background-color: #ebffee;
+	font-family: sans-serif;
+	font-size: 12px;
+	width : 50%;
+}
+
+li {
+	margin : 10px;
+	margin-left: 25px;
+	border-radius: 10px;
+	background-color: #aaffee;
+}
